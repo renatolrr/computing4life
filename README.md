@@ -13,7 +13,8 @@ Se va a desarrollar un solo bloque de programación en Scratch([Computing4life-2
 ### Ideas de desarrollo  
   
 1. Podemos crear una pantalla con el dibujo de la clase y cuando los alumnos vayan cumpliendo las tareas establecidas (colocar las sillas, apagar los ordenadores...), los bloques van cambiando de color. El alumno no puede abandonar el aula hasta haber realizado correctamente todas las tareas.
-2. Se puede hacer tabla, utilizando las columnas como tareas y las filas con los nombres de los alumnos.
+2. Se puede hacer tabla, utilizando las columnas como tareas y las filas con los nombres de los alumnos. 
+3. Pueden programarlo los alumnos.   
    
 ### Licencia
   
