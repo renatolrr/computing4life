@@ -17,7 +17,7 @@ Se va a desarrollar un solo bloque de programación en Scratch([Computing4life-2
    
 ### Licencia
   
-![CC BY SA](CC_BY-SA_3.0.png)
+![CC BY SA](CC_BY-SA_3.0.jpg)
 
 
 
